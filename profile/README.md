@@ -1,14 +1,16 @@
-## Nekotachi Ltd
+## Arkilon Ltd
 
 Hi there! We're Nekotachi Ltd. We're a software development company based in sunny Glasgow.
 
 We operate in Scotland󠁿 and Japan. 
 
-More details are available at https://nekotachi.co.uk
+More details are available at https://arkilon.com
 
 
 <small>
- Registered in Scotland, SC730513. Registered Address: 272 Bath Street, Glasgow, G2 4JR
+ Registered in Scotland, SC730513. Registered Address: 272 Bath Street, Glasgow, G2 4JR.
+ Until December 2024, we were known as Nekotachi Ltd.
+
 </small>
 
 <!--
